@@ -26,7 +26,7 @@
       <pubDate>Wed, 22 Jul 2020 20:28:59 +0900</pubDate>
       
       <guid>https://ranlan-777.github.io/skills/css/</guid>
-      <description>CSS  HTMLを装飾します 色やサイズなどを指定できます  </description>
+      <description>CSS  HTMLを装飾します 色やサイズなどを指定できます このサイトもCSSが使われています 気になる方はGithub repoボタンをクリック!!  </description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Wed, 22 Jul 2020 20:30:26 +0900</pubDate>
       
       <guid>https://ranlan-777.github.io/skills/adobe_xd/</guid>
-      <description>Adobe XD  開発理念:Design at the speed of thought.（思考と同じスピードでデザイン） 私は思考ができていないので宝の持ち腐れです HTML/CSSで模写用にデザインを勉強しています  </description>
+      <description>Adobe XD  開発理念:Design at the speed of thought.（思考と同じスピードでデザイン） 私は思考もデザインもできていないので宝の持ち腐れです HTML/CSSで模写用にWEBデザインを勉強しています WEB/モバイルアプリケーションのUIも作成できるのでやってみましょう  </description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Wed, 22 Jul 2020 20:29:10 +0900</pubDate>
       
       <guid>https://ranlan-777.github.io/skills/sql/</guid>
-      <description>勉強中です  データの分析ができます  </description>
+      <description>勉強中です@Progate  表になってるデータの分析ができます 昇順に並べて上位5番目までのデータを抽出するとか あるキーワードに合致or一部合致するものを取得とか  </description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Wed, 22 Jul 2020 20:29:18 +0900</pubDate>
       
       <guid>https://ranlan-777.github.io/skills/python/</guid>
-      <description>勉強中です＠Progate  C言語よりとっつきやすいです  </description>
+      <description>勉強中です@Progate  C言語よりとっつきやすいです 人によるバラツキが少なそうで読みやすい 昨今話題沸騰中の機械学習やWEBプログラミングなど幅広く使用されています  </description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 22 Jul 2020 20:12:23 +0900</pubDate>
       
       <guid>https://ranlan-777.github.io/skills/clang/</guid>
-      <description>C言語  組み込み界隈ではまだ現役の言語です printfとかは（業務で）使ってません マイコンのマニュアル（英語だったり日本語だったり）と日々格闘しています マイコンの機能を使ってA/D値を取得したり パルスを出力したり タイマでパルス幅を計測したり 外部のICと通信したり それらを実現するためにレジスタをいじくりまわしています もう少しわかりやすく使いまわしやすく実装できないものか…  </description>
+      <description>C言語  組み込み界隈ではまだ現役の言語です printfとかは（業務では）使ってません マイコンのマニュアル（英語だったり日本語だったり）と日々格闘しています マイコンの機能を使ってA/D値を取得したり パルスを出力したり タイマでパルス幅を計測したり 外部のICと通信したり それらを実現するためにレジスタをいじくりまわしています もう少しわかりやすく使いまわしやすく実装できないものか…  </description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@
       <pubDate>Wed, 22 Jul 2020 20:23:56 +0900</pubDate>
       
       <guid>https://ranlan-777.github.io/about/about/</guid>
-      <description>作者について    </description>
+      <description>作者について  仙台で組み込み開発者として働いています 会社ではWindows環境でC言語とテキストエディタを駆使しています 仕事に疲れたので気分転換に業務で使用していない言語やスキルを勉強しています  </description>
     </item>
     
   </channel>

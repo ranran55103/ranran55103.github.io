@@ -11,42 +11,42 @@
 	"title": "Css",
 	"tags": [],
 	"description": "",
-	"content": "CSS  HTMLを装飾します 色やサイズなどを指定できます  "
+	"content": "CSS  HTMLを装飾します 色やサイズなどを指定できます このサイトもCSSが使われています 気になる方はGithub repoボタンをクリック!!  "
 },
 {
 	"uri": "https://ranlan-777.github.io/skills/adobe_xd/",
 	"title": "Adobe_XD",
 	"tags": [],
 	"description": "",
-	"content": "Adobe XD  開発理念:Design at the speed of thought.（思考と同じスピードでデザイン） 私は思考ができていないので宝の持ち腐れです HTML/CSSで模写用にデザインを勉強しています  "
+	"content": "Adobe XD  開発理念:Design at the speed of thought.（思考と同じスピードでデザイン） 私は思考もデザインもできていないので宝の持ち腐れです HTML/CSSで模写用にWEBデザインを勉強しています WEB/モバイルアプリケーションのUIも作成できるのでやってみましょう  "
 },
 {
 	"uri": "https://ranlan-777.github.io/skills/sql/",
 	"title": "SQL",
 	"tags": [],
 	"description": "",
-	"content": "勉強中です  データの分析ができます  "
+	"content": "勉強中です@Progate  表になってるデータの分析ができます 昇順に並べて上位5番目までのデータを抽出するとか あるキーワードに合致or一部合致するものを取得とか  "
 },
 {
 	"uri": "https://ranlan-777.github.io/skills/python/",
 	"title": "Python",
 	"tags": [],
 	"description": "",
-	"content": "勉強中です＠Progate  C言語よりとっつきやすいです  "
+	"content": "勉強中です@Progate  C言語よりとっつきやすいです 人によるバラツキが少なそうで読みやすい 昨今話題沸騰中の機械学習やWEBプログラミングなど幅広く使用されています  "
 },
 {
 	"uri": "https://ranlan-777.github.io/skills/",
 	"title": "Skills",
 	"tags": [],
 	"description": "",
-	"content": "Chapter 1 Some Chapter title Lorem Ipsum.\n"
+	"content": "Chapter 1 スキル一覧  できること、学んだことを記載していきます  "
 },
 {
 	"uri": "https://ranlan-777.github.io/skills/clang/",
 	"title": "Clang",
 	"tags": [],
 	"description": "",
-	"content": "C言語  組み込み界隈ではまだ現役の言語です printfとかは（業務で）使ってません マイコンのマニュアル（英語だったり日本語だったり）と日々格闘しています マイコンの機能を使ってA/D値を取得したり パルスを出力したり タイマでパルス幅を計測したり 外部のICと通信したり それらを実現するためにレジスタをいじくりまわしています もう少しわかりやすく使いまわしやすく実装できないものか…  "
+	"content": "C言語  組み込み界隈ではまだ現役の言語です printfとかは（業務では）使ってません マイコンのマニュアル（英語だったり日本語だったり）と日々格闘しています マイコンの機能を使ってA/D値を取得したり パルスを出力したり タイマでパルス幅を計測したり 外部のICと通信したり それらを実現するためにレジスタをいじくりまわしています もう少しわかりやすく使いまわしやすく実装できないものか…  "
 },
 {
 	"uri": "https://ranlan-777.github.io/skills/plantuml/",
@@ -60,7 +60,7 @@
 	"title": "About",
 	"tags": [],
 	"description": "",
-	"content": "Chapter 2 Some Chapter title Lorem Ipsum.\n"
+	"content": "Chapter 2 アバウトページ  ご興味がございましたらご覧ください  "
 },
 {
 	"uri": "https://ranlan-777.github.io/",
@@ -74,7 +74,7 @@
 	"title": "About",
 	"tags": [],
 	"description": "",
-	"content": "作者について    "
+	"content": "作者について  仙台で組み込み開発者として働いています 会社ではWindows環境でC言語とテキストエディタを駆使しています 仕事に疲れたので気分転換に業務で使用していない言語やスキルを勉強しています  "
 },
 {
 	"uri": "https://ranlan-777.github.io/categories/",
