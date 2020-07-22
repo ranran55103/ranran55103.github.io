@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Learn Documentation</title>
-    <link>https://ranlan-777.github.io/blog/</link>
+    <link>https://ranlan-777.github.io/</link>
     <description>Recent content on Hugo Learn Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 22 Jul 2020 20:30:26 +0900</lastBuildDate>
     
-	<atom:link href="https://ranlan-777.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ranlan-777.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Html</title>
-      <link>https://ranlan-777.github.io/blog/skills/html/</link>
+      <link>https://ranlan-777.github.io/skills/html/</link>
       <pubDate>Wed, 22 Jul 2020 20:28:48 +0900</pubDate>
       
-      <guid>https://ranlan-777.github.io/blog/skills/html/</guid>
+      <guid>https://ranlan-777.github.io/skills/html/</guid>
       <description>HTML  ウェブページを作成するための言語（HyperText Markup Language）です HTML5が主流です  </description>
     </item>
     
     <item>
       <title>Css</title>
-      <link>https://ranlan-777.github.io/blog/skills/css/</link>
+      <link>https://ranlan-777.github.io/skills/css/</link>
       <pubDate>Wed, 22 Jul 2020 20:28:59 +0900</pubDate>
       
-      <guid>https://ranlan-777.github.io/blog/skills/css/</guid>
+      <guid>https://ranlan-777.github.io/skills/css/</guid>
       <description>CSS  HTMLを装飾します 色やサイズなどを指定できます  </description>
     </item>
     
     <item>
       <title>Adobe_XD</title>
-      <link>https://ranlan-777.github.io/blog/skills/adobe_xd/</link>
+      <link>https://ranlan-777.github.io/skills/adobe_xd/</link>
       <pubDate>Wed, 22 Jul 2020 20:30:26 +0900</pubDate>
       
-      <guid>https://ranlan-777.github.io/blog/skills/adobe_xd/</guid>
+      <guid>https://ranlan-777.github.io/skills/adobe_xd/</guid>
       <description>Adobe XD  開発理念:Design at the speed of thought.（思考と同じスピードでデザイン） 私は思考ができていないので宝の持ち腐れです HTML/CSSで模写用にデザインを勉強しています  </description>
     </item>
     
     <item>
       <title>SQL</title>
-      <link>https://ranlan-777.github.io/blog/skills/sql/</link>
+      <link>https://ranlan-777.github.io/skills/sql/</link>
       <pubDate>Wed, 22 Jul 2020 20:29:10 +0900</pubDate>
       
-      <guid>https://ranlan-777.github.io/blog/skills/sql/</guid>
+      <guid>https://ranlan-777.github.io/skills/sql/</guid>
       <description>勉強中です  データの分析ができます  </description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://ranlan-777.github.io/blog/skills/python/</link>
+      <link>https://ranlan-777.github.io/skills/python/</link>
       <pubDate>Wed, 22 Jul 2020 20:29:18 +0900</pubDate>
       
-      <guid>https://ranlan-777.github.io/blog/skills/python/</guid>
+      <guid>https://ranlan-777.github.io/skills/python/</guid>
       <description>勉強中です＠Progate  C言語よりとっつきやすいです  </description>
     </item>
     
     <item>
       <title>Clang</title>
-      <link>https://ranlan-777.github.io/blog/skills/clang/</link>
+      <link>https://ranlan-777.github.io/skills/clang/</link>
       <pubDate>Wed, 22 Jul 2020 20:12:23 +0900</pubDate>
       
-      <guid>https://ranlan-777.github.io/blog/skills/clang/</guid>
+      <guid>https://ranlan-777.github.io/skills/clang/</guid>
       <description>C言語  組み込み界隈ではまだ現役の言語です printfとかは（業務で）使ってません マイコンのマニュアル（英語だったり日本語だったり）と日々格闘しています マイコンの機能を使ってA/D値を取得したり パルスを出力したり タイマでパルス幅を計測したり 外部のICと通信したり それらを実現するためにレジスタをいじくりまわしています もう少しわかりやすく使いまわしやすく実装できないものか…  </description>
     </item>
     
     <item>
       <title>Plantuml</title>
-      <link>https://ranlan-777.github.io/blog/skills/plantuml/</link>
+      <link>https://ranlan-777.github.io/skills/plantuml/</link>
       <pubDate>Wed, 22 Jul 2020 20:29:49 +0900</pubDate>
       
-      <guid>https://ranlan-777.github.io/blog/skills/plantuml/</guid>
+      <guid>https://ranlan-777.github.io/skills/plantuml/</guid>
       <description>テキストベースでUMLを描画できます </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://ranlan-777.github.io/blog/about/about/</link>
+      <link>https://ranlan-777.github.io/about/about/</link>
       <pubDate>Wed, 22 Jul 2020 20:23:56 +0900</pubDate>
       
-      <guid>https://ranlan-777.github.io/blog/about/about/</guid>
+      <guid>https://ranlan-777.github.io/about/about/</guid>
       <description>作者について    </description>
     </item>
     

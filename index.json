@@ -1,90 +1,90 @@
 [
 {
-	"uri": "https://ranlan-777.github.io/blog/skills/html/",
+	"uri": "https://ranlan-777.github.io/skills/html/",
 	"title": "Html",
 	"tags": [],
 	"description": "",
 	"content": "HTML  ウェブページを作成するための言語（HyperText Markup Language）です HTML5が主流です  "
 },
 {
-	"uri": "https://ranlan-777.github.io/blog/skills/css/",
+	"uri": "https://ranlan-777.github.io/skills/css/",
 	"title": "Css",
 	"tags": [],
 	"description": "",
 	"content": "CSS  HTMLを装飾します 色やサイズなどを指定できます  "
 },
 {
-	"uri": "https://ranlan-777.github.io/blog/skills/adobe_xd/",
+	"uri": "https://ranlan-777.github.io/skills/adobe_xd/",
 	"title": "Adobe_XD",
 	"tags": [],
 	"description": "",
 	"content": "Adobe XD  開発理念:Design at the speed of thought.（思考と同じスピードでデザイン） 私は思考ができていないので宝の持ち腐れです HTML/CSSで模写用にデザインを勉強しています  "
 },
 {
-	"uri": "https://ranlan-777.github.io/blog/skills/sql/",
+	"uri": "https://ranlan-777.github.io/skills/sql/",
 	"title": "SQL",
 	"tags": [],
 	"description": "",
 	"content": "勉強中です  データの分析ができます  "
 },
 {
-	"uri": "https://ranlan-777.github.io/blog/skills/python/",
+	"uri": "https://ranlan-777.github.io/skills/python/",
 	"title": "Python",
 	"tags": [],
 	"description": "",
 	"content": "勉強中です＠Progate  C言語よりとっつきやすいです  "
 },
 {
-	"uri": "https://ranlan-777.github.io/blog/skills/",
+	"uri": "https://ranlan-777.github.io/skills/",
 	"title": "Skills",
 	"tags": [],
 	"description": "",
 	"content": "Chapter 1 Some Chapter title Lorem Ipsum.\n"
 },
 {
-	"uri": "https://ranlan-777.github.io/blog/skills/clang/",
+	"uri": "https://ranlan-777.github.io/skills/clang/",
 	"title": "Clang",
 	"tags": [],
 	"description": "",
 	"content": "C言語  組み込み界隈ではまだ現役の言語です printfとかは（業務で）使ってません マイコンのマニュアル（英語だったり日本語だったり）と日々格闘しています マイコンの機能を使ってA/D値を取得したり パルスを出力したり タイマでパルス幅を計測したり 外部のICと通信したり それらを実現するためにレジスタをいじくりまわしています もう少しわかりやすく使いまわしやすく実装できないものか…  "
 },
 {
-	"uri": "https://ranlan-777.github.io/blog/skills/plantuml/",
+	"uri": "https://ranlan-777.github.io/skills/plantuml/",
 	"title": "Plantuml",
 	"tags": [],
 	"description": "",
 	"content": "テキストベースでUMLを描画できます "
 },
 {
-	"uri": "https://ranlan-777.github.io/blog/about/",
+	"uri": "https://ranlan-777.github.io/about/",
 	"title": "About",
 	"tags": [],
 	"description": "",
 	"content": "Chapter 2 Some Chapter title Lorem Ipsum.\n"
 },
 {
-	"uri": "https://ranlan-777.github.io/blog/",
+	"uri": "https://ranlan-777.github.io/",
 	"title": "Hugo Learn Documentation",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://ranlan-777.github.io/blog/about/about/",
+	"uri": "https://ranlan-777.github.io/about/about/",
 	"title": "About",
 	"tags": [],
 	"description": "",
 	"content": "作者について    "
 },
 {
-	"uri": "https://ranlan-777.github.io/blog/categories/",
+	"uri": "https://ranlan-777.github.io/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://ranlan-777.github.io/blog/tags/",
+	"uri": "https://ranlan-777.github.io/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
