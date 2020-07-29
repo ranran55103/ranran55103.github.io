@@ -42,6 +42,13 @@
 	"content": "Chapter 1 スキル一覧  できること、学んだことを記載していきます  "
 },
 {
+	"uri": "https://ranlan-777.github.io/works/",
+	"title": "Works",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 2 Works  作成中だよ  "
+},
+{
 	"uri": "https://ranlan-777.github.io/skills/clang/",
 	"title": "Clang",
 	"tags": [],
@@ -60,7 +67,7 @@
 	"title": "About",
 	"tags": [],
 	"description": "",
-	"content": "Chapter 2 アバウトページ  ご興味がございましたらご覧ください  "
+	"content": "Chapter 3 About  仙台で組み込み開発者として働いています 会社ではWindows環境でC言語とテキストエディタとGrepを駆使しています 開発ドキュメントはWordやExcel,Visioで作成しています （テキストベースでgitで管理したいなあ。MarkdownとかPLANTUMLとか使って。） 実機のテストではオシロスコープを使用して通信データやパルス、ポートなどの出力を確認しています モニタツールやデバッガを使ってRAMやレジスタの確認もしています 仕事に疲れたので気分転換に業務で使用していない言語やスキルを勉強しています  "
 },
 {
 	"uri": "https://ranlan-777.github.io/",
@@ -68,13 +75,6 @@
 	"tags": [],
 	"description": "",
 	"content": ""
-},
-{
-	"uri": "https://ranlan-777.github.io/about/about/",
-	"title": "About",
-	"tags": [],
-	"description": "",
-	"content": "作者について  仙台で組み込み開発者として働いています 会社ではWindows環境でC言語とテキストエディタを駆使しています 仕事に疲れたので気分転換に業務で使用していない言語やスキルを勉強しています  "
 },
 {
 	"uri": "https://ranlan-777.github.io/categories/",
