@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Works on Hugo Learn Documentation</title>
+    <title>Works on My Portfolio</title>
     <link>https://ranlan-777.github.io/works/</link>
-    <description>Recent content in Works on Hugo Learn Documentation</description>
+    <description>Recent content in Works on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 29 Jul 2020 20:39:00 +0900</lastBuildDate>
     
 	<atom:link href="https://ranlan-777.github.io/works/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Work1</title>
+      <link>https://ranlan-777.github.io/works/work1/</link>
+      <pubDate>Mon, 17 Aug 2020 16:17:07 +0900</pubDate>
+      
+      <guid>https://ranlan-777.github.io/works/work1/</guid>
+      <description>初案件!!  PHPで、メールフォームから名前と宛先を取得し、 自動送信するプログラムを作成しました StripeCheckoutで商品の決済機能を追加しました  </description>
+    </item>
     
   </channel>
 </rss>

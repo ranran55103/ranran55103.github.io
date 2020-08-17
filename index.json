@@ -46,7 +46,7 @@
 	"title": "Works",
 	"tags": [],
 	"description": "",
-	"content": "Chapter 2 Works  作成中だよ  "
+	"content": "Chapter 2 Works  OUTPUT置き場です  "
 },
 {
 	"uri": "https://ranlan-777.github.io/skills/clang/",
@@ -71,10 +71,17 @@
 },
 {
 	"uri": "https://ranlan-777.github.io/",
-	"title": "Hugo Learn Documentation",
+	"title": "My Portfolio",
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "https://ranlan-777.github.io/works/work1/",
+	"title": "Work1",
+	"tags": [],
+	"description": "",
+	"content": "初案件!!  PHPで、メールフォームから名前と宛先を取得し、 自動送信するプログラムを作成しました StripeCheckoutで商品の決済機能を追加しました  "
 },
 {
 	"uri": "https://ranlan-777.github.io/categories/",
